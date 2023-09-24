@@ -19,7 +19,7 @@ open class Cable (
     }
 
 }
-//0
+
 class UpgradedCabel(
     cableType: String,
     cableCoresCount: Int,
